@@ -1,0 +1,1 @@
+import{_ as t,r as n,c as o,a,F as c,d as r,o as s}from"./index.52853219.js";const _={},p=r(" test-2 ");function l(d,m){const e=n("n-input");return s(),o(c,null,[p,a(e,{type:"text",placeholder:"Input"})],64)}var f=t(_,[["render",l]]);export{f as default};
