@@ -1,1 +1,0 @@
-import{_ as t,r as n,c as o,a as s,F as a,d as c,e as r,o as _}from"./index.52853219.js";const l={},p=c(" test-1 "),d=r("div",{style:{height:"1000px"}},null,-1);function i(u,m){const e=n("n-input");return _(),o(a,null,[p,d,s(e,{type:"text",placeholder:"Input"})],64)}var h=t(l,[["render",i]]);export{h as default};
