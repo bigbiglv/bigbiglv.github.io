@@ -1,1 +1,0 @@
-import{j as e,k as t,l as s,r as a,q as o,s as r,o as c}from"./index.800a1ccd.js";const n=o(" test-1 "),l=r("div",{style:{height:"1000px"}},null,-1),i={setup(p){return(_,d)=>(c(),e("div",null,[n,l,t(s(a),{type:"text",placeholder:"Input"})]))}};export{i as default};
