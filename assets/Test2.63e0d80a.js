@@ -1,1 +1,0 @@
-import{o as e,k as t,l as a,m as o,r,q as s}from"./index.f2bbc914.js";const c=s(" test-2 "),_={setup(n){return(p,l)=>(e(),t("div",null,[c,a(o(r),{type:"text",placeholder:"Input"})]))}};export{_ as default};
