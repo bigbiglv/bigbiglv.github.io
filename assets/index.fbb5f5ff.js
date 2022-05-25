@@ -1,0 +1,1 @@
+import{F as t}from"./FileTree.01958edb.js";import{o as s,k as a,l as e,w as n,b9 as r}from"./index.4d788cb3.js";const u={setup(_){return(c,l)=>{const o=r;return s(),a("div",null,[e(o,{position:"absolute","has-sider":""},{default:n(()=>[e(t)]),_:1})])}}};export{u as default};
